@@ -11,5 +11,5 @@
 <p>By default this sample uses the local storage emulator that ships with the SDK. Before running be sure to start the storage emulator.
 <ol>
 	<li>Click <strong>Start</strong>, point to <strong>All Programs</strong>, and then click <strong>Windows Azure SDK</strong>.</li>
-	<li>Click <string>Storage Emulator</strong>.</li>
+	<li>Click <strong>Storage Emulator</strong>.</li>
 </ol>
